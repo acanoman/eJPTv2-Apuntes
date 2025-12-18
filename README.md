@@ -4,7 +4,7 @@ Mis apuntes eJPTv2
 - [EJPT SMB](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/EJPT%20SMB%202bfa084ab7118057bb95f738a98bf231.md)
 - [Escala privilegios](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/Escala%20privilegios%202c1a084ab711804f9f59d5b51c062dfb.md)
 - [MAQUINAS](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/MAQUINAS%202c2a084ab71180b599b5e7a34dfc93e3.md)
-- [METAEXPLOIT](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/METAEXPLOIT%202c2a084ab71180cf808dd35f2152c727.md)
+- [METASPLOIT](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/METASPLOIT%202c2a084ab71180cf808dd35f2152c727.md)
 - [NOTAS y RECURSOS](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/NOTAS%20y%20RECURSOS%202c1a084ab71180b69c49dc1ca0b455ce.md)
 - [Reversa en web](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/Reversa%20en%20web%202c1a084ab71180c29275c153aab73e11.md)
 - [SQL Inyect](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/SQL%20Inyect%202c1a084ab71180a780dbed68be44d66e.md)
