@@ -1,2 +1,18 @@
 # eJPTv2-Apuntes
 Mis apuntes eJPTv2
+- [CRACKEAR password](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/CRACKEAR%20password%202c1a084ab7118091bfd6ed47b31c6045.md)
+- [EJPT SMB](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/EJPT%20SMB%202bfa084ab7118057bb95f738a98bf231.md)
+- [Escala privilegios](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/Escala%20privilegios%202c1a084ab711804f9f59d5b51c062dfb.md)
+- [MAQUINAS](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/MAQUINAS%202c2a084ab71180b599b5e7a34dfc93e3.md)
+- [METAEXPLOIT](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/METAEXPLOIT%202c2a084ab71180cf808dd35f2152c727.md)
+- [NOTAS y RECURSOS](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/NOTAS%20y%20RECURSOS%202c1a084ab71180b69c49dc1ca0b455ce.md)
+- [Reversa en web](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/Reversa%20en%20web%202c1a084ab71180c29275c153aab73e11.md)
+- [SQL Inyect](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/SQL%20Inyect%202c1a084ab71180a780dbed68be44d66e.md)
+- [Sanetizar shell](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/Sanetizar%20shell%202c2a084ab711801eba3dc5d9bb2cbad9.md)
+- [WEB exploit nikto o whatweb](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/WEB%20exploit%20nikto%20o%20whatweb%202c1a084ab711801691c4eaa51d8c6e7b.md)
+- [WORDPRESS](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/WORDPRESS%202c1a084ab7118077814fe893d02a14cc.md)
+- [ejpT INICIO](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/ejpT%20INICIO%202bfa084ab71180bea21fd3e82effb3ad.md)
+- [Enumerar dentro de una shell Linux](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/enumerar%20dentro%20de%20una%20shell%20Linux%202c2a084ab71180f6a7e3f26389d9470e.md)
+- [Enumerar máquina Windows](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/enumerar%20maquina%20windows%202c2a084ab71180e1824efb08fe321686.md)
+- [Hydra junto con BurpSuite](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/hydra%20junto%20con%20burpsuite%202c2a084ab71180aba48cfcebdf5fb822.md)
+- [msfvenom](https://github.com/acanoman/eJPTv2-Apuntes/blob/main/Apuntes/msfvenom%202c2a084ab711802fb589efb650844ac0.md)
